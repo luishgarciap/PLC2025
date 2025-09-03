@@ -2,7 +2,7 @@
 
 I recommend to use the code via 
 
-* [Docker and Visual Studio Code with Remote Development extension pack](https://code.visualstudio.com/docs/remote/containers#_installation)
+* Aston Ubuntu VDI
 
 or in an online IDE, such as:
 
